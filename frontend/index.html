@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cervical Cancer Detection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Cervical Cancer Detection System</h1>
+
+    <div class="upload-box">
+        <input type="file" id="imageInput" accept="image/*">
+        <button onclick="predict()">Predict</button>
+    </div>
+
+    <div class="preview-section">
+        <img id="previewImage" />
+    </div>
+
+    <div id="resultCard" class="result-card hidden">
+        <h2 id="className"></h2>
+        <p id="confidence"></p>
+
+        <button class="toggle-btn" onclick="toggleSection('precautionsSection')">
+            View Precautions
+        </button>
+        <div id="precautionsSection" class="hidden"></div>
+
+        <button class="toggle-btn" onclick="toggleSection('hospitalsSection')">
+            View Hospitals
+        </button>
+        <div id="hospitalsSection" class="hidden"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
