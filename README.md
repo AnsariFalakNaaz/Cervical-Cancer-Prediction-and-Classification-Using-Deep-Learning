@@ -62,3 +62,6 @@ The model was trained and evaluated using the Herlev Cervical Cancer Dataset, wh
 ## Research Status
 
 Research paper development and publication work is currently in progress.
+
+
+Note: The trained model file (.h5) is not included in this repository due to its large size.
