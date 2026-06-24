@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "carcinoma_in_situ_filtered_nlm",
+    "light_dysplastic_filtered_nlm",
+    "moderate_dysplastic_filtered_nlm",
+    "normal_columnar_filtered_nlm",
+    "normal_intermediate_filtered_nlm",
+    "normal_superficiel_filtered_nlm",
+    "severe_dysplastic_filtered_nlm"
+  ],
+  "class_mapping": {
+    "0": "carcinoma_in_situ_filtered_nlm",
+    "1": "light_dysplastic_filtered_nlm",
+    "2": "moderate_dysplastic_filtered_nlm",
+    "3": "normal_columnar_filtered_nlm",
+    "4": "normal_intermediate_filtered_nlm",
+    "5": "normal_superficiel_filtered_nlm",
+    "6": "severe_dysplastic_filtered_nlm"
+  },
+  "accuracy": 0.9395103216514642,
+  "total_classes": 7,
+  "model_name": "DenseNet121 + ASPP",
+  "status": "PRODUCTION_READY"
+}

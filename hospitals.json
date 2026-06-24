@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Tata Memorial Hospital",
+    "address": "Dr. Ernest Borges Road, Parel, Mumbai, Maharashtra 400012",
+    "latitude": 19.0087,
+    "longitude": 72.8444,
+    "doctors": ["Dr. Rajendra Badwe", "Dr. Sudeep Gupta"]
+  },
+  {
+    "name": "Kokilaben Dhirubhai Ambani Hospital",
+    "address": "Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "latitude": 19.1346,
+    "longitude": 72.8321,
+    "doctors": ["Dr. Gauri Agarwal", "Dr. Anil Heroor"]
+  },
+  {
+    "name": "HCG Cancer Centre Borivali",
+    "address": "Holy Cross Road, Borivali West, Mumbai, Maharashtra 400092",
+    "latitude": 19.2290,
+    "longitude": 72.8567,
+    "doctors": ["Dr. Vishal Rao", "Dr. Sharad Desai"]
+  },
+  {
+    "name": "S L Raheja Hospital",
+    "address": "Raheja Rugnalaya Marg, Mahim West, Mumbai, Maharashtra 400016",
+    "latitude": 19.0342,
+    "longitude": 72.8416,
+    "doctors": ["Dr. Pradnya Gadgil", "Dr. S K Daware"]
+  },
+  {
+    "name": "Bombay Hospital & Medical Research Centre",
+    "address": "12, Marine Lines, Mumbai, Maharashtra 400020",
+    "latitude": 18.9437,
+    "longitude": 72.8268,
+    "doctors": ["Dr. Ashish Bakshi", "Dr. N R Waghmare"]
+  },
+  {
+    "name": "Nanavati Hospital",
+    "address": "S V Road, Vile Parle West, Mumbai, Maharashtra 400056",
+    "latitude": 19.1006,
+    "longitude": 72.8426,
+    "doctors": ["Dr. Neerja Bhatla", "Dr. A Nandan"]
+  },
+  {
+    "name": "Fortis Hospital Mulund",
+    "address": "Mulund Goregaon Link Road, Mulund West, Mumbai, Maharashtra 400078",
+    "latitude": 19.1690,
+    "longitude": 72.9597,
+    "doctors": ["Dr. Vijay Patil", "Dr. Roshni Jewrajka"]
+  },
+  {
+    "name": "Jaslok Hospital and Research Centre",
+    "address": "15, Dr. G Deshmukh Marg, Peddar Road, Mumbai, Maharashtra 400026",
+    "latitude": 18.9704,
+    "longitude": 72.8016,
+    "doctors": ["Dr. Suresh Advani", "Dr. Nita Nair"]
+  },
+  {
+    "name": "Sir H N Reliance Foundation Hospital",
+    "address": "Raja Rammohan Roy Road, Prarthana Samaj, Mumbai, Maharashtra 400004",
+    "latitude": 18.9588,
+    "longitude": 72.8201,
+    "doctors": ["Dr. Sharda Jain", "Dr. Aarti Munshi"]
+  },
+  {
+    "name": "Seven Hills Hospital",
+    "address": "Marol Maroshi Road, Andheri East, Mumbai, Maharashtra 400059",
+    "latitude": 19.1119,
+    "longitude": 72.8866,
+    "doctors": ["Dr. Ashok Agarwal", "Dr. Rakesh Patel"]
+  },
+  {
+    "name": "Ruby Hall Clinic",
+    "address": "40, Sassoon Road, Sangamvadi, Pune, Maharashtra 411001",
+    "latitude": 18.5307,
+    "longitude": 73.8772,
+    "doctors": ["Dr. Sharmila Pakhale", "Dr. Suresh Joshi"]
+  },
+  {
+    "name": "Deenanath Mangeshkar Hospital & Research Centre",
+    "address": "Erandwane, Pune, Maharashtra 411004",
+    "latitude": 18.5097,
+    "longitude": 73.8266,
+    "doctors": ["Dr. Raj Nagarkar", "Dr. Ajay Limaye"]
+  },
+  {
+    "name": "Sahyadri Super Speciality Hospital",
+    "address": "S. No. 163, Bhumkar Chowk, Wakad, Pune, Maharashtra 411057",
+    "latitude": 18.5972,
+    "longitude": 73.7581,
+    "doctors": ["Dr. Vinod Gore", "Dr. Sneha Sheth"]
+  },
+  {
+    "name": "Onco-Life Cancer Centre",
+    "address": "Satara Road, Pune, Maharashtra 411009",
+    "latitude": 18.4849,
+    "longitude": 73.8525,
+    "doctors": ["Dr. Amit Ghose", "Dr. Smita Singh"]
+  },
+  {
+    "name": "Aditya Birla Memorial Hospital",
+    "address": "Chinchwad, Pune, Maharashtra 411033",
+    "latitude": 18.5871,
+    "longitude": 73.7765,
+    "doctors": ["Dr. Neeraj Mahajan", "Dr. Vishal Bhende"]
+  },
+  {
+    "name": "Inlaks & Budhrani Hospital",
+    "address": "7-9, Koregaon Park, Pune, Maharashtra 411001",
+    "latitude": 18.5362,
+    "longitude": 73.8872,
+    "doctors": ["Dr. Rajendra Chaudhari", "Dr. Poonam Joshi"]
+  },
+  {
+    "name": "Command Hospital (Southern Command)",
+    "address": "Wanwadi, Pune, Maharashtra 411040",
+    "latitude": 18.4872,
+    "longitude": 73.8869,
+    "doctors": ["Dr. L C Gupta", "Dr. A N Tiwari"]
+  },
+  {
+    "name": "Jupiter Hospital Pune",
+    "address": "Baner, Pune, Maharashtra 411045",
+    "latitude": 18.5598,
+    "longitude": 73.7904,
+    "doctors": ["Dr. Sheetal Dandekar", "Dr. Atul Patil"]
+  },
+  {
+    "name": "Galaxy Care Hospital",
+    "address": "Karve Road, Pune, Maharashtra 411038",
+    "latitude": 18.5029,
+    "longitude": 73.8246,
+    "doctors": ["Dr. Shailesh Puntambekar", "Dr. Dinesh Sharma"]
+  },
+  {
+    "name": "HCG Manavata Cancer Centre",
+    "address": "Mumbai Naka, Nashik, Maharashtra 422001",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "doctors": ["Dr. Raj Nagarkar", "Dr. Meenal Patil"]
+  },
+  {
+    "name": "Shree Guruji Rugnalaya",
+    "address": "Anandwalli Chowk, Nashik, Maharashtra",
+    "latitude": 20.0125,
+    "longitude": 73.7878,
+    "doctors": ["Dr. Meena Patil", "Dr. Amar Chaudhari"]
+  },
+  {
+    "name": "Namco Hospital",
+    "address": "Panchavati, Nashik, Maharashtra",
+    "latitude": 20.0167,
+    "longitude": 73.7881,
+    "doctors": ["Dr. M K More", "Dr. P S Waghmare"]
+  },
+  {
+    "name": "Regional Referral Hospital",
+    "address": "Shalimar Chowk, Nashik, Maharashtra",
+    "latitude": 20.0016,
+    "longitude": 73.7829,
+    "doctors": ["Dr. D S Gayakwad", "Dr. Kavita Sharma"]
+  },
+  {
+    "name": "Care Hospital Nashik",
+    "address": "Panchavati, Nashik, Maharashtra",
+    "latitude": 20.0141,
+    "longitude": 73.7820,
+    "doctors": ["Dr. Anil Bhandari", "Dr. Prasanna Mate"]
+  },
+  {
+    "name": "Onco Life Cancer Centre Nashik",
+    "address": "Ambad MIDC, Nashik, Maharashtra 422010",
+    "latitude": 19.9421,
+    "longitude": 73.7466,
+    "doctors": ["Dr. Suresh Mokashi", "Dr. Renuka Salunke"]
+  },
+  {
+    "name": "MOC Cancer Care & Research Centre",
+    "address": "Mumbai Naka, Nashik, Maharashtra",
+    "latitude": 19.9977,
+    "longitude": 73.7897,
+    "doctors": ["Dr. Nitasha Singh", "Dr. Mahendra Pawar"]
+  },
+  {
+    "name": "Mandade Oncology Centre",
+    "address": "Trimurti Chowk, Nashik, Maharashtra",
+    "latitude": 19.9548,
+    "longitude": 73.8038,
+    "doctors": ["Dr. Satish Mandade", "Dr. Pallavi Satam"]
+  },
+  {
+    "name": "Dr. Gadade Cancer Hospital",
+    "address": "Dwarka, Nashik, Maharashtra",
+    "latitude": 20.0020,
+    "longitude": 73.7890,
+    "doctors": ["Dr. S K Gadade", "Dr. Vijay Gawade"]
+  },
+  {
+    "name": "MGM Hospital CBD Belapur",
+    "address": "Sector 1A, CBD Belapur, Mumbai, Maharashtra",
+    "latitude": 19.0258,
+    "longitude": 73.0416,
+    "doctors": ["Dr. D S Deshmukh", "Dr. Jyoti Kaur"]
+  },
+  {
+    "name": "Bethany Hospital",
+    "address": "Shastri Nagar, Thane West, Thane, Maharashtra 400606",
+    "latitude": 19.2183,
+    "longitude": 72.9770,
+    "doctors": ["Dr. Aparna Vinayak", "Dr. Anurag Garg"]
+  },
+  {
+    "name": "Apollo Clinic Andheri East",
+    "address": "Andheri East, Mumbai, Maharashtra 400059",
+    "latitude": 19.1197,
+    "longitude": 72.8697,
+    "doctors": ["Dr. Nisha Agarwal", "Dr. Prashant Pawar"]
+  }
+]

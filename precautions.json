@@ -1,0 +1,58 @@
+{
+  "Carcinoma_in_situ": {
+    "classification_type": "precancerous cell",
+    "immediate_action": "Urgent treatment including possible surgery or radiotherapy.",
+    "lifestyle_changes": "Avoid smoking, maintain a healthy diet and follow medical advice.",
+    "follow_up": "Close monitoring including frequent Pap smears and clinical exams.",
+    "diagnostic_tests": ["Colposcopy", "Biopsy", "MRI", "CT scan"],
+    "treatment_options": ["Surgery (LEEP, Cone biopsy)", "Radiation therapy", "Chemotherapy"]
+  },
+  "normal_intermediate": {
+    "classification_type": "normal cell",
+    "immediate_action": "Regular screening and evaluation by specialist.",
+    "lifestyle_changes": "Avoid irritants, maintain hygiene.",
+    "follow_up": "Pap smear every 6-12 months based on physician recommendation.",
+    "diagnostic_tests": ["Pap smear", "HPV DNA Test", "Colposcopy"],
+    "treatment_options": ["Observation", "Cryotherapy", "Laser therapy"]
+  },
+  "normal_superficiel": {
+    "classification_type": "normal cell",
+    "immediate_action": "Routine monitoring as this is often a normal cell type.",
+    "lifestyle_changes": "Healthy lifestyle and preventive care.",
+    "follow_up": "Annual Pap smear recommended.",
+    "diagnostic_tests": ["Pap smear"],
+    "treatment_options": ["No treatment required unless abnormal changes detected."]
+  },
+  "normal_columnar": {
+    "classification_type": "normal cell",
+    "immediate_action": "Observation and periodic screening.",
+    "lifestyle_changes": "Avoid smoking and exposure to HPV.",
+    "follow_up": "Follow-up Pap smears as per guidelines.",
+    "diagnostic_tests": ["Pap smear", "HPV test"],
+    "treatment_options": ["Observation", "Colposcopy if abnormalities detected"]
+  },
+  "light_dysplastic": {
+    "classification_type": "abnormal cell",
+    "immediate_action": "Monitor with Pap smears every 6 months with possible colposcopy.",
+    "lifestyle_changes": "Increase antioxidant intake, quit smoking.",
+    "follow_up": "Annual follow-up if stable.",
+    "diagnostic_tests": ["Pap smear", "Colposcopy", "HPV Test"],
+    "treatment_options": ["Observation", "Ablation therapy (Cryotherapy, Laser)"]
+  },
+  "moderate_dysplastic": {
+    "classification_type": "abnormal cell",
+    "immediate_action": "Referral for colposcopy and biopsy.",
+    "lifestyle_changes": "Avoid smoking, reduce exposure to HPV and other irritants.",
+    "follow_up": "Regular follow-up exams every 3-6 months.",
+    "diagnostic_tests": ["Colposcopy", "Biopsy", "HPV Test"],
+    "treatment_options": ["Excisional procedures (LEEP, Cone biopsy)", "Cryotherapy"]
+  },
+  "severe_dysplastic": {
+    "classification_type": "abnormal cell",
+    "immediate_action": "Immediate intervention with colposcopy and biopsy, possible treatment.",
+    "lifestyle_changes": "Strict adherence to medical treatment.",
+    "follow_up": "Repeat Pap smear and evaluation every 3 months post treatment.",
+    "diagnostic_tests": ["Colposcopy", "Biopsy", "HPV Test", "Imaging if needed"],
+    "treatment_options": ["Surgical excision", "Radiation therapy", "Chemotherapy if invasive"]
+  }
+}
